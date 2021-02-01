@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "flask",
+			"path": "..\\..\\..\\..\\flask"
+		},
+		{
+			"name": "CS_FLASK",
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\portfolio"
+		}
+	],
+	"settings": {}
+}
